@@ -37,4 +37,4 @@ Você pode conferir o design da interface no [link do Figma](https://www.figma.c
 
 O projeto está disponível em [Projeto-Mentor no Vercel](https://projeto-mentor.vercel.app/) para visualização.
 
-Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+Seja bem-vindo ao Projeto-Mentor, e sinta-se à vontade para contribuir ou entrar em contato conosco!
